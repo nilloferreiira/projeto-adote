@@ -14,7 +14,7 @@ Aqui estão as tecnologias usadas no projeto
 As principais features da aplicação:
  - Cadastro de usuários
  - Autenticação de usuários
- - Cadastro e remação de animais 
+ - Cadastro e remoção de animais 
  - Listagem dos animais
  - Buscar os pets cadastrados
  - Ver o perfil do pet
@@ -28,8 +28,9 @@ As principais features da aplicação:
   - django
   
 * Para rodar o projeto.
-  
-  - no windows use `python manage.py run server` no terminal
+  - no windows ative o ambiente virtual com `venv/scripts/activate`
+  - no mac/linux use `source venv/bin/activate`
+  - no windows use `python manage.py run server` para abrir a aplicação
   - no mac/linux `python3 manage.py run server`
   - va para a url na porta local `/auth/cadastro/`
   - cadastre seu usuário e depois va para a url `/auth/login/`
