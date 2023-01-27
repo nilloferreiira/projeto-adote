@@ -1,4 +1,4 @@
-## (ADO.TE)
+## ADO.TE
 
 Essa é uma aplicação feita em python e django, com o objetivo de ser uma ferramenta para facilitar na adoção de animais em situação de rua
 
