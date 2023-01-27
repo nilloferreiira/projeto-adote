@@ -1,5 +1,5 @@
 
-![Logo of the project]('/templates/static/usuarios/img/logo_adote.png') 
+![Logo of the project](/readme-img/logo_adote.png) 
 <!-- tire print do logo da aplicacao e coloque na pasta-->
 
 ## (ADO.TE)
