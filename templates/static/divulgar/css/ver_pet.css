@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.col-md-2{
+    height: 970px;
+}
+
+.bg-side-plataforma {
+    background-color: #391D34;
+    color: white;
+}
